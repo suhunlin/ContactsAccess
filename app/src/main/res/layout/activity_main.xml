@@ -26,6 +26,7 @@
             android:layout_alignParentLeft="true"
             android:text="Get Contact"
             android:textAllCaps="false"
+            android:onClick="getContactFun"
             />
         <ListView
             android:id="@+id/lid_contactDatas"
